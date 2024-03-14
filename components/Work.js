@@ -61,7 +61,7 @@ export default function Work(props) {
                 <h4>
                   Owner Mr,BaBlU<span> @Mr_Bablu07</span>
                 </h4>
-                <p className="pt-2">Join My telegram channel Channel 👆🏻 </p>
+                <p className="pt-2">Join My Telegram Channel 👆🏻 </p>
                 <ul className="pt-4 text-xs brightness-75 font-firacode">
                   <li>▹ handle news blog website</li>
                   <li>▹ installation template, and plugins in wordpress</li>
