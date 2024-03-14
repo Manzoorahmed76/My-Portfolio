@@ -67,38 +67,38 @@ export default function Work(props) {
             animate={animation}
             className="flex flex-wrap flex-1 w-full h-full text-white md:mt-0 bg-gray-700 text-2xl"
           >
-            <Link href="https://www.aicocreative.com/">
+            <Link href="link">
               <div className="w-full h-1/4 md:h-1/5 bg-bg-1 brightness-90 bg-cover">
                 <h3 className="w-full h-full font-semibold hover:bg-black hover:bg-opacity-50 text-white drop-shadow-md transform transition-all pt-10 opacity-0 hover:opacity-100 hover:pt-4 md:hover:pt-14 delay-100 z-10">
-                  Aico Creative
+                  coming soon
                 </h3>
               </div>
             </Link>
-            <Link href="https://clone-60078.firebaseapp.com/">
+            <Link href="https://mr-ba-bl-u.vercel.app/">
               <div className="w-full h-1/4 md:h-1/5 bg-bg-4 brightness-90 bg-cover">
                 <h3 className="w-full h-full font-semibold hover:bg-gray-600 hover:bg-opacity-50 text-white drop-shadow-md transform transition-all pt-10 opacity-0 hover:opacity-100 hover:pt-4 md:hover:pt-14 delay-100 z-10">
-                  Google <span className="font-firacode text-xs">clone</span>
+                  My Portfolio<span className="font-firacode text-xs">clone</span>
                 </h3>
               </div>
             </Link>
-            <Link href="https://netflix-clone-7d963.firebaseapp.com/">
+            <Link href="https://mr-ba-bl-u.vercel.app/">
               <div className="w-full h-1/4 md:h-1/5 bg-bg-2 brightness-90 bg-cover justify-center">
                 <h3 className="w-full h-full font-semibold hover:bg-gray-600 hover:bg-opacity-50 text-white drop-shadow-md transform transition-all pt-10 opacity-0 hover:opacity-100 hover:pt-4 md:hover:pt-14 delay-100 z-10">
-                  Netflix <span className="font-firacode text-xs">clone</span>
+                  My Portfolio <span className="font-firacode text-xs">clone</span>
                 </h3>
               </div>
             </Link>
-            <Link href="https://airbnb-clone-eta-six.vercel.app/">
+            <Link href="link">
               <div className="w-full h-1/4 md:h-1/5 bg-bg-3 brightness-90 bg-cover">
                 <h3 className="w-full h-full font-semibold hover:bg-gray-600 hover:bg-opacity-50 text-white drop-shadow-md transform transition-all pt-10 opacity-0 hover:opacity-100 hover:pt-4 md:hover:pt-14 delay-100 z-10">
-                  Airbnb <span className="font-firacode text-xs">clone</span>
+                  coming soon <span className="font-firacode text-xs">clone</span>
                 </h3>
               </div>
             </Link>
-            <Link href="https://amazon-juan-clone.herokuapp.com/">
+            <Link href="link">
               <div className="w-full h-1/4 md:h-1/5 bg-bg-5 brightness-90 bg-blue-700 ">
                 <h3 className="w-full h-full font-semibold hover:bg-gray-600 hover:bg-opacity-50 text-white drop-shadow-md transform transition-all pt-10 opacity-0 hover:opacity-100 hover:pt-4 md:hover:pt-14 delay-100 z-10">
-                  Amazon <span className="font-firacode text-xs">clone</span>
+                  coming soon <span className="font-firacode text-xs">clone</span>
                 </h3>
               </div>
             </Link>
@@ -108,3 +108,4 @@ export default function Work(props) {
     </section>
   );
 }
+
