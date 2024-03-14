@@ -90,7 +90,7 @@ function Banner() {
             animate={animation2}
             className="relative h-96 md:h-full w-full -mt-56 md:mt-72 ml-16 md:ml-[500px] shadow-2xl overflow-hidden "
           >
-            <Image src={'/bablu3.png'} layout="fill" objectFit="cover" />
+            <Image src={'/bablu1.png'} layout="fill" objectFit="cover" />
           </motion.div>
           <motion.div
             animate={animation2}
@@ -111,3 +111,4 @@ function Banner() {
 }
 
 export default Banner;
+                
