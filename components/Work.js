@@ -59,9 +59,9 @@ export default function Work(props) {
               <div className="h-auto w-auto bg-red-500 border-2 border-red-500"></div>
               <div className="flex flex-col w-full h-auto ml-0 md:ml-6">
                 <h4>
-                  SEO Development<span> @Literasi Prima</span>
+                  SEO Development<span> @Mr_Bablu07</span>
                 </h4>
-                <p className="pt-2">Oktober 2020</p>
+                <p className="pt-2">Join My Channel</p>
                 <ul className="pt-4 text-xs brightness-75 font-firacode">
                   <li>▹ handle news blog website</li>
                   <li>▹ installation template, and plugins in wordpress</li>
