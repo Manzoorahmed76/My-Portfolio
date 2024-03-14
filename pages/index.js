@@ -21,7 +21,7 @@ export default class LandingPage extends Component {
       <>
         <Head>
           <title>MaNzOoR AhMeD </title>
-          <link rel="icon" href="/juan-favicon.svg" />
+          <link rel="icon" href="/Manzoor-favicon.png" />
           <link
             href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap"
             rel="stylesheet"
