@@ -54,14 +54,14 @@ export default function Work(props) {
           <div className="w-auto h-auto -mt-24 md:-mt-0">
             <div className="flex flex-col md:flex-row max-w-xs md:max-w-none md:w-[600px] h-auto mt-36 pl-10 md:pl-0">
               <div className="flex w-auto h-auto ">
-                <h3 className="font-firacode">Literasi Prima</h3>
+                <h3 className="font-firacode">Prime Literacy</h3>
               </div>
               <div className="h-auto w-auto bg-red-500 border-2 border-red-500"></div>
               <div className="flex flex-col w-full h-auto ml-0 md:ml-6">
                 <h4>
-                  SEO Development<span> @Mr_Bablu07</span>
+                  Owner Mr,BaBlU<span> @Mr_Bablu07</span>
                 </h4>
-                <p className="pt-2">Join My Channel</p>
+                <p className="pt-2">Join My telegram channel Channel 👆🏻 </p>
                 <ul className="pt-4 text-xs brightness-75 font-firacode">
                   <li>▹ handle news blog website</li>
                   <li>▹ installation template, and plugins in wordpress</li>
@@ -106,4 +106,4 @@ export default function Work(props) {
       </div>
     </section>
   );
-}
+            }
